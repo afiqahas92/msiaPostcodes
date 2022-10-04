@@ -3,7 +3,7 @@
     {
       "name": "Kuala Lumpur",
       "PSHid": "1",
-      "postcode": {
+      "postcode": [
         "50000",
         "50050",
         "50088",
@@ -301,14 +301,14 @@
         "59800",
         "59990",
         "60000"
-  }
+  ]
     },
     {
       "name": "Setapak",
       "PSHid": "2",
-      "postcode": {
+      "postcode": [
         "53300"
-      }
+      ]
     }
 ]
 }
