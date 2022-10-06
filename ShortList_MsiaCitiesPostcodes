@@ -1,0 +1,51 @@
+{
+  "state": [
+    {
+      "name": "Wp Kuala Lumpur",
+      "city": [
+        {
+          "name": "Kuala Lumpur",
+          "PSHid": 1,
+          "postcode": [
+            "50000",
+            "50050"
+          ]
+        },
+        {
+          "name": "Setapak",
+          "PSHid": 2,
+          "postcode": [
+            "53300"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "city": [
+        {
+          "name": "Ayer Baloi",
+          "PSHid": 3,
+          "postcode": [
+            "82100"
+          ]
+        },
+        {
+          "name": "Ayer Hitam",
+          "PSHid": 4,
+          "postcode": [
+            "86100"
+          ]
+        },
+        {
+          "name": "Yong Peng",
+          "PSHid": 5,
+          "postcode": [
+            "83700",
+            "83710"
+          ]
+        }
+      ]
+    }
+  ]
+}
